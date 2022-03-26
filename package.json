@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "react-test-renderer": "^17.0.2"
+  },
+  "name": "test_jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadaqil06/Testing_Jest.git"
+  },
+  "author": "aqil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadaqil06/Testing_Jest/issues"
+  },
+  "homepage": "https://github.com/ahmadaqil06/Testing_Jest#readme",
+  "description": ""
+}
